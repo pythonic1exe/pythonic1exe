@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:070B14,100:2563EB&height=220&section=header&text=Hi,%20I'm%20Usman%20Shakeel&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%7C%20Mobile%20%7C%20Web%20%7C%20AI&descAlignY=62&descSize=18" width="100%" />
+  <img src="./267ccba65eddca98c0a2b75db71f0280.jpg" width="100%" alt="Welcome to Usman's GitHub" />
 
 <br />
 
@@ -24,20 +24,11 @@
 
 </div>
 
-I’m **Usman Shakeel**, a Full-Stack Engineer from Pakistan who enjoys turning ideas into reliable, scalable, and user-friendly digital products.
+Hello! I’m **Usman Shakeel**, a Full-Stack Engineer from Pakistan.
 
-My work focuses on building mobile applications, modern web platforms, backend systems, and AI-powered solutions.
+I build mobile applications, modern web platforms, backend systems, and AI-powered solutions. I enjoy transforming ideas into reliable, scalable, and user-friendly digital products.
 
-I care about clean architecture, performance, maintainable code, and creating experiences that feel simple and intuitive.
-
-<div align="center">
-
-📱 Mobile Development &nbsp; • &nbsp;
-🌐 Web Development &nbsp; • &nbsp;
-⚙️ Backend Engineering &nbsp; • &nbsp;
-🤖 Artificial Intelligence
-
-</div>
+My primary focus is on React Native, Next.js, NestJS, PostgreSQL, TypeScript, Python, computer vision, and artificial intelligence.
 
 ---
 
@@ -45,18 +36,7 @@ I care about clean architecture, performance, maintainable code, and creating ex
 
 ## 🛠️ Technologies
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,tailwind,postgres,prisma,python,opencv,tensorflow,cpp,firebase,git,github" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,tailwind,postgres,prisma,python,opencv,tensorflow,cpp,firebase,git,github&perline=8" />
 
 </div>
 
@@ -64,15 +44,15 @@ I care about clean architecture, performance, maintainable code, and creating ex
 
 <div align="center">
 
-## 📊 GitHub Statistics
+## 📊 Statistics
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=pythonic1exe&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pythonic1exe&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pythonic1exe&theme=github_dark" width="95%" />
 
 <br />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pythonic1exe&theme=tokyonight&hide_border=true" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pythonic1exe&theme=github_dark" height="180" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pythonic1exe&theme=github_dark" height="180" />
 
 </div>
 
@@ -80,7 +60,7 @@ I care about clean architecture, performance, maintainable code, and creating ex
 
 <div align="center">
 
-## 🤝 Let’s Connect
+## 🤝 Connect With Me
 
 <a href="https://www.linkedin.com/in/usman-shakeel-dev/">LinkedIn</a>
 &nbsp; • &nbsp;
