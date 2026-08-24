@@ -22,15 +22,17 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
+## About Me
 
 </div>
 
-Hello! I’m **Usman Shakeel**, a Full-Stack Engineer from Pakistan.
+<table>
+<tr>
+<td width="70%" valign="middle">
 
-I build mobile applications, modern web platforms, backend systems, and AI-powered solutions. I enjoy transforming ideas into reliable, scalable, and user-friendly digital products.
+I’m **Usman Shakeel**, a Full-Stack Engineer from Pakistan. I build mobile applications, modern web platforms, backend systems, and AI-powered solutions. My work spans the complete product-development lifecycle, from designing responsive interfaces and cross-platform mobile experiences to building secure APIs, database architectures, authentication systems, and production-ready services. I’m interested in clean architecture, performance optimization, maintainable code, computer vision, natural language processing, and practical applications of artificial intelligence.
 
-My primary focus is on React Native, Next.js, NestJS, PostgreSQL, TypeScript, Python, computer vision, and artificial intelligence.
+<br />
 
 <div align="center">
 
@@ -41,11 +43,21 @@ My primary focus is on React Native, Next.js, NestJS, PostgreSQL, TypeScript, Py
 
 </div>
 
+</td>
+
+<td width="30%" align="center" valign="middle">
+
+<img src="./miau.jpeg" width="220" alt="Usman" />
+
+</td>
+</tr>
+</table>
+
 ---
 
 <div align="center">
 
-## 🛠️ Technologies
+## Technologies
 
 <img src="https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -70,30 +82,33 @@ My primary focus is on React Native, Next.js, NestJS, PostgreSQL, TypeScript, Py
 
 <div align="center">
 
-## 📊 GitHub Statistics
+## GitHub Statistics
 
 <table>
 <tr>
 <td width="50%" align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=pythonic1exe&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true" width="100%" alt="Usman's GitHub statistics" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pythonic1exe&theme=github_dark"
+width="100%"
+alt="Usman's GitHub statistics" />
 
 </td>
+
 <td width="50%" align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pythonic1exe&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff" width="100%" alt="Usman's GitHub streak" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pythonic1exe&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff"
+width="100%"
+alt="Usman's GitHub streak" />
 
 </td>
 </tr>
 </table>
 
-</div>
+<br />
 
----
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pythonic1exe&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=30363d&area=true&hide_border=true" width="95%" alt="Usman's contribution graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pythonic1exe&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=30363d&area=true&hide_border=true"
+width="95%"
+alt="Usman's contribution graph" />
 
 </div>
 
@@ -101,7 +116,7 @@ My primary focus is on React Native, Next.js, NestJS, PostgreSQL, TypeScript, Py
 
 <div align="center">
 
-## 🤝 Let’s Connect
+## Let’s Connect
 
 <a href="https://www.linkedin.com/in/usman-shakeel-dev/">
 <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -117,6 +132,6 @@ My primary focus is on React Native, Next.js, NestJS, PostgreSQL, TypeScript, Py
 
 <br /><br />
 
-### Building useful products, one commit at a time 🚀
+Building useful products, one commit at a time
 
 </div>
