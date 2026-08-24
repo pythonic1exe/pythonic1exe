@@ -1,20 +1,17 @@
 <div align="center">
 
-<img src="./267ccba65eddca98c0a2b75db71f0280.jpg"
-     width="100%"
-     height="260"
-     alt="Welcome to Usman's GitHub" />
+<img src="./ChatGPT%20Image%20Aug%2025,%202026,%2002_41_43%20AM.png" width="100%" alt="Welcome to Usman's GitHub" />
 
-<br />
+<br /><br />
 
 <a href="https://www.linkedin.com/in/usman-shakeel-dev/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
 </a>
 <a href="mailto:wonder.wander19@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+<img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
 </a>
 <a href="https://github.com/pythonic1exe">
-<img src="https://img.shields.io/badge/GITHUB-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
 </a>
 
 </div>
@@ -29,7 +26,7 @@
 
 Hello! I’m **Usman Shakeel**, a Full-Stack Engineer from Pakistan.
 
-I build mobile applications, modern web platforms, backend systems, and AI-powered solutions. I enjoy turning ideas into reliable, scalable, and user-friendly digital products.
+I build mobile applications, modern web platforms, backend systems, and AI-powered solutions. I enjoy transforming ideas into reliable, scalable, and user-friendly digital products.
 
 My primary focus is on React Native, Next.js, NestJS, PostgreSQL, TypeScript, Python, computer vision, and artificial intelligence.
 
@@ -48,18 +45,22 @@ My primary focus is on React Native, Next.js, NestJS, PostgreSQL, TypeScript, Py
 
 ## 🛠️ Technologies
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nestjs,nodejs,tailwind,postgres,prisma,python,opencv,tensorflow,cpp,firebase,git,github&perline=8" />
-
-<br /><br />
-
-<img src="https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/React%20Native-000000?style=for-the-badge&logo=react&logoColor=white" />
+<img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white" />
 <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" />
-<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Node.js-000000?style=for-the-badge&logo=node.js&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/Prisma-000000?style=for-the-badge&logo=prisma&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenCV-000000?style=for-the-badge&logo=opencv&logoColor=white" />
+<img src="https://img.shields.io/badge/TensorFlow-000000?style=for-the-badge&logo=tensorflow&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" />
 
 </div>
 
@@ -67,7 +68,7 @@ My primary focus is on React Native, Next.js, NestJS, PostgreSQL, TypeScript, Py
 
 <div align="center">
 
-## 📊 Statistics
+## 📊 GitHub Statistics
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pythonic1exe&theme=github_dark" width="95%" />
 
@@ -79,7 +80,7 @@ My primary focus is on React Native, Next.js, NestJS, PostgreSQL, TypeScript, Py
 
 <br /><br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pythonic1exe&bg_color=0d1117&color=ffffff&line=58a6ff&point=ffffff&area=true&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pythonic1exe&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=30363d&area=true&hide_border=true" width="95%" />
 
 </div>
 
@@ -89,11 +90,17 @@ My primary focus is on React Native, Next.js, NestJS, PostgreSQL, TypeScript, Py
 
 ## 🤝 Let’s Connect
 
-<a href="https://www.linkedin.com/in/usman-shakeel-dev/">LinkedIn</a>
-&nbsp; • &nbsp;
-<a href="mailto:wonder.wander19@gmail.com">Email</a>
-&nbsp; • &nbsp;
-<a href="https://github.com/pythonic1exe">GitHub</a>
+<a href="https://www.linkedin.com/in/usman-shakeel-dev/">
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:wonder.wander19@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/pythonic1exe">
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
 <br /><br />
 
