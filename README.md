@@ -1,9 +1,6 @@
 <div align="center">
 
-<img src="./ChatGPT%20Image%20Aug%2025,%202026,%2002_41_43%20AM.png"
-     width="100%"
-     height="130"
-     alt="Welcome to Usman's GitHub" />
+<img src="./header-banner.png" width="100%" alt="Welcome to Usman's GitHub" />
 
 <br /><br />
 
@@ -75,19 +72,20 @@ My primary focus is on React Native, Next.js, NestJS, PostgreSQL, TypeScript, Py
 
 ## 📊 GitHub Statistics
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=pythonic1exe&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true"
-  width="95%"
-  alt="Usman's GitHub statistics"
-/>
+<table>
+<tr>
+<td width="50%" align="center">
 
-<br /><br />
+<img src="https://github-readme-stats.vercel.app/api?username=pythonic1exe&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true" width="100%" alt="Usman's GitHub statistics" />
 
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=pythonic1exe&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff"
-  width="95%"
-  alt="Usman's GitHub streak"
-/>
+</td>
+<td width="50%" align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=pythonic1exe&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff" width="100%" alt="Usman's GitHub streak" />
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -95,11 +93,7 @@ My primary focus is on React Native, Next.js, NestJS, PostgreSQL, TypeScript, Py
 
 <div align="center">
 
-<img
-  src="https://github-readme-activity-graph.vercel.app/graph?username=pythonic1exe&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=30363d&area=true&hide_border=true"
-  width="95%"
-  alt="Usman's contribution graph"
-/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pythonic1exe&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=30363d&area=true&hide_border=true" width="95%" alt="Usman's contribution graph" />
 
 </div>
 
