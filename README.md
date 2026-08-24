@@ -26,13 +26,11 @@
 
 </div>
 
-<table>
-<tr>
-<td width="70%" valign="middle">
+<img src="./miau.jpeg" width="220" align="right" alt="Usman" />
 
 I’m **Usman Shakeel**, a Full-Stack Engineer from Pakistan. I build mobile applications, modern web platforms, backend systems, and AI-powered solutions. My work spans the complete product-development lifecycle, from designing responsive interfaces and cross-platform mobile experiences to building secure APIs, database architectures, authentication systems, and production-ready services. I’m interested in clean architecture, performance optimization, maintainable code, computer vision, natural language processing, and practical applications of artificial intelligence.
 
-<br />
+<br clear="right" />
 
 <div align="center">
 
@@ -42,16 +40,6 @@ I’m **Usman Shakeel**, a Full-Stack Engineer from Pakistan. I build mobile app
 🤖 Artificial Intelligence
 
 </div>
-
-</td>
-
-<td width="30%" align="center" valign="middle">
-
-<img src="./miau.jpeg" width="220" alt="Usman" />
-
-</td>
-</tr>
-</table>
 
 ---
 
@@ -106,7 +94,7 @@ alt="Usman's GitHub streak" />
 
 <br />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pythonic1exe&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=30363d&area=true&hide_border=true"
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=pythonic1exe&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=30363d&area=true&hide_border=true"
 width="95%"
 alt="Usman's contribution graph" />
 
