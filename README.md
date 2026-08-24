@@ -1,17 +1,22 @@
 <div align="center">
 
-<img src="./ChatGPT%20Image%20Aug%2025,%202026,%2002_41_43%20AM.png" width="100%" alt="Welcome to Usman's GitHub" />
+<img src="./ChatGPT%20Image%20Aug%2025,%202026,%2002_41_43%20AM.png"
+     width="100%"
+     height="130"
+     alt="Welcome to Usman's GitHub" />
 
 <br /><br />
 
 <a href="https://www.linkedin.com/in/usman-shakeel-dev/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
+
 <a href="mailto:wonder.wander19@gmail.com">
-<img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
+
 <a href="https://github.com/pythonic1exe">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white&labelColor=000000" />
+<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 </div>
@@ -70,17 +75,31 @@ My primary focus is on React Native, Next.js, NestJS, PostgreSQL, TypeScript, Py
 
 ## 📊 GitHub Statistics
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pythonic1exe&theme=github_dark" width="95%" />
+<img
+  src="https://github-readme-stats.vercel.app/api?username=pythonic1exe&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=ffffff&icon_color=ffffff&ring_color=ffffff&include_all_commits=true&count_private=true"
+  width="95%"
+  alt="Usman's GitHub statistics"
+/>
 
 <br /><br />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pythonic1exe&theme=github_dark" width="48%" />
+<img
+  src="https://github-readme-streak-stats.herokuapp.com/?user=pythonic1exe&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff"
+  width="95%"
+  alt="Usman's GitHub streak"
+/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=pythonic1exe&theme=github_dark" width="48%" />
+</div>
 
-<br /><br />
+---
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pythonic1exe&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=30363d&area=true&hide_border=true" width="95%" />
+<div align="center">
+
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=pythonic1exe&bg_color=0d1117&color=ffffff&line=ffffff&point=ffffff&area_color=30363d&area=true&hide_border=true"
+  width="95%"
+  alt="Usman's contribution graph"
+/>
 
 </div>
 
