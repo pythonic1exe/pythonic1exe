@@ -4,10 +4,6 @@
 
 <br /><br />
 
-<a href="https://www.linkedin.com/in/usman-shakeel-dev/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-
 <a href="mailto:wonder.wander19@gmail.com">
 <img src="https://img.shields.io/badge/GMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
@@ -105,10 +101,6 @@ alt="Usman's contribution graph" />
 <div align="center">
 
 ## Let’s Connect
-
-<a href="https://www.linkedin.com/in/usman-shakeel-dev/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
 
 <a href="mailto:wonder.wander19@gmail.com">
 <img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=white" />
