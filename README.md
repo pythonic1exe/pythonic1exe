@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header-h.png" width="100%" alt="Welcome to Usman's GitHub" />
+<img src="./Header-h.png" width="100%" alt="Welcome to Usman's GitHub" />
 
 <br /><br />
 
