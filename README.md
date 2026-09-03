@@ -74,7 +74,7 @@ I’m a Full-Stack Engineer from Pakistan. I build mobile applications, modern w
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=pythonic1exe&theme=github_dark"
 width="100%"
-alt="Usman's GitHub statistics" />
+alt="GitHub statistics" />
 
 </td>
 
@@ -82,7 +82,7 @@ alt="Usman's GitHub statistics" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=pythonic1exe&hide_border=true&background=0d1117&stroke=30363d&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideNums=ffffff&sideLabels=ffffff&dates=8b949e&currStreakNum=ffffff"
 width="100%"
-alt="Usman's GitHub streak" />
+alt="GitHub streak" />
 
 </td>
 </tr>
@@ -92,7 +92,7 @@ alt="Usman's GitHub streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=pythonic1exe&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&area_color=30363d&area=true&hide_border=true"
 width="95%"
-alt="Usman's contribution graph" />
+alt="contribution graph" />
 
 </div>
 
