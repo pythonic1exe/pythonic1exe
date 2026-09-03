@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header-banner.png" width="100%" alt="Welcome to Usman's GitHub" />
+<img src="./header-h.png" width="100%" alt="Welcome to Usman's GitHub" />
 
 <br /><br />
 
@@ -28,7 +28,7 @@
 
 <img src="./miau.jpeg" width="220" align="right" alt="Usman" />
 
-I’m **Usman Shakeel**, a Full-Stack Engineer from Pakistan. I build mobile applications, modern web platforms, backend systems, and AI-powered solutions. My work spans the complete product-development lifecycle, from designing responsive interfaces and cross-platform mobile experiences to building secure APIs, database architectures, authentication systems, and production-ready services. I’m interested in clean architecture, performance optimization, maintainable code, computer vision, natural language processing, and practical applications of artificial intelligence.
+I’m a Full-Stack Engineer from Pakistan. I build mobile applications, modern web platforms, backend systems, and AI-powered solutions. My work spans the complete product-development lifecycle, from designing responsive interfaces and cross-platform mobile experiences to building secure APIs, database architectures, authentication systems, and production-ready services. I’m interested in clean architecture, performance optimization, maintainable code, computer vision, natural language processing, and practical applications of artificial intelligence.
 
 <br clear="right" />
 
